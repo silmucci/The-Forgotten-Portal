@@ -24,7 +24,10 @@ A causa delle dimensioni elevate del file, il progetto è stato diviso in più p
 
 Per estrarlo correttamente:
 
-1. scaricare tutte le parti;
-2. metterle nella stessa cartella;
-3. aprire il file usando 7-Zip;
-4. estrarre il contenuto.
+1. scaricare tutte le parti:
+- Computer.Graphics_2.7z.001
+- Computer.Graphics_2.7z.002 
+- Computer.Graphics_2.7z.003
+4. metterle nella stessa cartella;
+5. seleziornare tutti e 3 i file Zip;
+6. estrarre il contenuto usando 7-Zip.
