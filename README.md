@@ -2,6 +2,8 @@
 
 Progetto di Computer Graphics realizzato in Blender.
 
+## Descrizione
+
 Il progetto rappresenta una scena 3D ambientata in un luogo urbano abbandonato. La scena include elementi realistici come muri rovinati, pavimento deteriorato e un'automobile arrugginita. L'elemento centrale è un portale sospeso, che aggiunge una componente fantastica e misteriosa all'ambiente.
 
 Il lavoro si concentra sulla modellazione degli oggetti, sull'applicazione dei materiali e delle texture, sull'illuminazione e sulla composizione finale della scena.
@@ -12,9 +14,11 @@ Il rendering è stato effettuato utilizzando il motore Cycles di Blender, con Ma
 
 L'animazione è composta da 200 frame. Questa scelta è stata fatta per limitare i tempi di calcolo, poiché il render è stato eseguito su un Mac M2 e ha richiesto circa 10 ore.
 
-## Download del progetto completo
+## Download progetto completo
 
-Il progetto completo è disponibile nella sezione **Releases** di questo repository.
+Il progetto completo è disponibile nella sezione **Releases** di GitHub:
+
+[Scarica il progetto completo](https://github.com/silmucci/The-Forgotten-Portal/releases/tag/v1.0)
 
 A causa delle dimensioni elevate del file, il progetto è stato diviso in più parti da circa 1000 MB.
 
@@ -22,5 +26,5 @@ Per estrarlo correttamente:
 
 1. scaricare tutte le parti;
 2. metterle nella stessa cartella;
-3. aprire il file che termina con `.001` usando 7-Zip;
+3. aprire il file usando 7-Zip;
 4. estrarre il contenuto.
